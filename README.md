@@ -1,12 +1,12 @@
 # Esp32-C3-mini-bluetooth-jammer
 Follow me on Tiktok: Emensto and Fb page: Jammer Shop
 
-pin code
-SCK_PIN   4
-MISO_PIN  5
-MOSI_PIN  6
-CE_PIN    20
-CSN_PIN   21
-pin for  button
-G7
+pin code <br>
+SCK_PIN   4 <br>
+MISO_PIN  5 <br>
+MOSI_PIN  6  <br>
+CE_PIN    20 <br>
+CSN_PIN   21 <br>
+pin for  button <br>
+G7 <br>
 GND
